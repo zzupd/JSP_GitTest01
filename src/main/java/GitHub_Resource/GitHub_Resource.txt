@@ -1,0 +1,8 @@
+GitHub HTTPS URL => 
+https://github.com/zzupd/JSP_GitTest01.git
+
+이클립스 동적 웹 프로젝트 명 => 
+JSP_GitTest01
+
+토큰 => 
+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
